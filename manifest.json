@@ -1,0 +1,10 @@
+{
+  "id": "chat-memo",
+  "name": "Chat Memo",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Quick memo panel in a chat bubble style. Supports markdown headings for left-side display.",
+  "author": "WHK",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
