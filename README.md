@@ -24,7 +24,7 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots here after publishing_
+![Chat Memo UI](screenshot.png)
 
 ---
 
